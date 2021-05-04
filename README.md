@@ -1,2 +1,2 @@
 # notemakingwebpage
-This webpage is to create a notemaking
+This webpage is to create notes
